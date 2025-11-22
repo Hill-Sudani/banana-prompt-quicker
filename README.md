@@ -16,6 +16,8 @@
 
 ## 📸 预览
 
+在线网站：https://glidea.github.io/banana-prompt-quicker
+
 <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/modal.png?raw=true" width="600">
 
 <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/input.png?raw=true" width="300">
