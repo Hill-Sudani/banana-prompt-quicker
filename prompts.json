@@ -9,29 +9,11 @@
         "category": "学习"
     },
     {
-        "title": "生成人物A-pose设计图",
-        "preview": "https://linux.do/uploads/default/original/4X/9/c/8/9c8b413ed123820810b7893d1e07e5f84e151b99.jpeg",
-        "prompt": "横图，创作如图人物的A-pose设计图（不要照搬图中的动作），米白色底。\n有种初期设计的感觉。\n有各个部位拆分。\n要表情差分，多角度表情\n物品拆分，细节特写。\n并且使用手写体文字进行标注说明，最好使用中文。\n角色：保持好角色本体的现有特征，例如脸型、发色、身材等归属于人体特征的内容\n着装、图片的构成务必按照以下要求：\n以下是对人物着装细节的提取以及图片各部分\n二、 图片各部分内容详解\n整张设计图被清晰地划分为四个主要区域：\n左侧区域：三视图展示\n中上区域：各个部位拆分\n中下区域：内着的设计拆分\n右侧区域：细节特写\n按照以下要求一步步思考：\nStep1:提取角色的人体特征\nStep2: 规划着装细节\nStep3: 思考特点要求\nStep4:进行符合图片分区内容格式的图片生成",
-        "author": "LinuxDO@TheSmallHanCat",
-        "link": "https://linux.do/t/topic/1204197",
-        "mode": "edit",
-        "category": "有趣"
-    },
-    {
         "title": "生成人物[NSFW]素体设计图",
         "preview": "https://linux.do/uploads/default/original/4X/f/3/c/f3cc75fb0df7cf9fa7fd83d281501af487de70bf.jpeg",
         "prompt": "[nsfw]素体的\n横图，创作如图人物的 A-pose 设计图（不要照搬图中的动作），米白色底。\n有种初期设计的感觉。\n有各个部位拆分。\n要表情差分，多角度表情\n物品拆分，细节特写。\n并且使用手写体文字进行标注说明，最好使用中文。\n角色：保持好角色本体的现有特征，例如脸型、发色、身材等归属于人体特征的内容\n绘制角色不穿衣服的素体的三视图，衣服的草案灯\n以下是对人物细节的提取以及图片各部分\n二、 图片各部分内容详解\n整张设计图被清晰地划分为四个主要区域：\n左侧区域：三视图展示角色素体，需要带头发，不带任何衣服\n中上区域：各个部位拆分，包括衣服\n中下区域：内着的设计拆分\n右侧区域：细节特写\n按照以下要求一步步思考：\nStep1: 提取角色的人体特征\nStep2: 规划着装细节\nStep3: 思考特点要求\nStep4: 进行符合图片分区内容格式的图片生成",
         "author": "LinuxDO@TheSmallHanCat",
         "link": "https://linux.do/t/topic/1204197",
-        "mode": "edit",
-        "category": "NSFW"
-    },
-    {
-        "title": "跪坐姿势的低角度仰视构图",
-        "preview": "https://linux.do/uploads/default/optimized/4X/a/4/8/a48e49aa17554617288d493754ce351c4d30db17_2_696x1000.jpeg",
-        "prompt": "让角色呈双脚并拢的跪坐姿势，腰部伏低，但脊背直立，双手并拢叠放于膝盖上。视角从角色背后以臀部为中心，采用近大远小的构图，从地板高度由右向上仰视，突出下肢在画面中的主体地位，强调脚部挤压陷进臀部的变形感，增强空间感和视觉冲击力。人物调整姿态，服装保持不变",
-        "author": "LinuxDO@kennyphantom",
-        "link": "https://linux.do/t/topic/1203319",
         "mode": "edit",
         "category": "NSFW"
     },
@@ -251,7 +233,7 @@
     },
     {
         "title": "鸟山明风格",
-        "preview": "https://lh3.googleusercontent.com/gg-dl/ABS2GSmooezF2RA13b2FnS8kBoALpqwaQIQwghPocra04q1v2NuA9nco-rmYOYDEqCC7b8MFoK5wJtpKrx6kwvutyPx0crxzT4jvo0YOdreaLBSdmrUf9rPBjD2X9G8DmbqYURuExp5u1a36mSgT5bscwWfz327U7OzB7NNGhTSEGJCjb8LSlQ=s1024-rj",
+        "preview": "https://i.mji.rip/2025/11/23/51d26b85abee7a018dd803138d121b8e.jpeg",
         "prompt": "转成鸟山明风格",
         "author": "Official",
         "mode": "edit",
@@ -418,6 +400,24 @@
         "link": "https://x.com/ZHO_ZHO_ZHO/status/1961772524611768452",
         "mode": "edit",
         "category": "工作"
+    },
+    {
+        "title": "生成人物A-pose设计图",
+        "preview": "https://linux.do/uploads/default/original/4X/9/c/8/9c8b413ed123820810b7893d1e07e5f84e151b99.jpeg",
+        "prompt": "横图，创作如图人物的A-pose设计图（不要照搬图中的动作），米白色底。\n有种初期设计的感觉。\n有各个部位拆分。\n要表情差分，多角度表情\n物品拆分，细节特写。\n并且使用手写体文字进行标注说明，最好使用中文。\n角色：保持好角色本体的现有特征，例如脸型、发色、身材等归属于人体特征的内容\n着装、图片的构成务必按照以下要求：\n以下是对人物着装细节的提取以及图片各部分\n二、 图片各部分内容详解\n整张设计图被清晰地划分为四个主要区域：\n左侧区域：三视图展示\n中上区域：各个部位拆分\n中下区域：内着的设计拆分\n右侧区域：细节特写\n按照以下要求一步步思考：\nStep1:提取角色的人体特征\nStep2: 规划着装细节\nStep3: 思考特点要求\nStep4:进行符合图片分区内容格式的图片生成",
+        "author": "LinuxDO@TheSmallHanCat",
+        "link": "https://linux.do/t/topic/1204197",
+        "mode": "edit",
+        "category": "有趣"
+    },
+    {
+        "title": "跪坐姿势的低角度仰视构图",
+        "preview": "https://linux.do/uploads/default/optimized/4X/a/4/8/a48e49aa17554617288d493754ce351c4d30db17_2_696x1000.jpeg",
+        "prompt": "让角色呈双脚并拢的跪坐姿势，腰部伏低，但脊背直立，双手并拢叠放于膝盖上。视角从角色背后以臀部为中心，采用近大远小的构图，从地板高度由右向上仰视，突出下肢在画面中的主体地位，强调脚部挤压陷进臀部的变形感，增强空间感和视觉冲击力。人物调整姿态，服装保持不变",
+        "author": "LinuxDO@kennyphantom",
+        "link": "https://linux.do/t/topic/1203319",
+        "mode": "edit",
+        "category": "NSFW"
     },
     {
         "title": "人物姿势参考替换",
