@@ -92,6 +92,30 @@
 
 ## 第三步:处理预览图
 
+### 使用自动化脚本 (macOS Only)
+
+使用 `download_image.js` 脚本一键完成下载、压缩、保存 (无需安装任何依赖):
+
+```bash
+node make/download_image.js <预览图URL> [文件名]
+```
+
+**示例:**
+```bash
+# 指定文件名
+node make/download_image.js https://example.com/preview.jpg disney_3d_style
+```
+
+脚本会自动:
+- ✅ 下载图片
+- ✅ 使用 macOS 原生 `sips` 工具压缩到 100KB 以内
+- ✅ 统一转换为 JPG 格式
+- ✅ 保存并复制 CDN 路径
+
+### 手动处理步骤
+
+如果需要手动处理:
+
 1. **下载预览图**: 从来源获取预览图片
 2. **压缩图片**: 将图片压缩到 100KB 以内,保持清晰度
 3. **重命名**: 按照命名规范重命名文件
