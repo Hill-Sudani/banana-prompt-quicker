@@ -31,7 +31,6 @@
                 "services/config.js",
                 "services/prompts.js",
                 "sites/base.js",
-                "sites/universal.js",
                 "sites/ai_studio.js",
                 "sites/gemini.js",
                 "sites/gemini_enterprise.js",
